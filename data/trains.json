@@ -17,6 +17,24 @@
 				}
 			]
 		},
+
+		{
+			"name": "Argo Parahyangan",
+			"stops": [
+				{
+					"station": "Kiaracondong",
+					"status": "ON-TIME",
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
+				},
+				{
+					"station": "Gambir",
+					"status": "ON-TIME",
+					"arrival": "1:00pm",
+					"departure": "1:10pm"
+				}
+			]
+		},		
 		{
 			"name": "Flying Scotsman",
 			"stops": [
