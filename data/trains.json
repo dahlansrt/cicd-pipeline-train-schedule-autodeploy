@@ -50,6 +50,23 @@
 					"departure": "1:10pm"
 				}
 			]
+		},
+		{
+			"name": "Progo",
+			"stops": [
+				{
+					"station": "Lempuyangan",
+					"status": "ON-TIME",
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
+				},
+				{
+					"station": "Pasar Senen",
+					"status": "ON-TIME",
+					"arrival": "1:00pm",
+					"departure": "1:10pm"
+				}
+			]
 		},		
 		{
 			"name": "Flying Scotsman",
